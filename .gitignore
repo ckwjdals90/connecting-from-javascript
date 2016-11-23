@@ -1,2 +1,3 @@
-setting.json
-package.json
+setting.json,
+package.json,
+node_modules
